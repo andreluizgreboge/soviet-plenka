@@ -1,4 +1,4 @@
-# ПЛЕНКА (Plenka) — 90s Film Machine Simulator
+# ПЛЕНКА (Plenka) — 90s Film Machine Simulator 📸
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-blue.svg)](https://alga93.itch.io/soviet-plenka)
