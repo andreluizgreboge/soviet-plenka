@@ -11,15 +11,6 @@
 
 The core philosophy of **ПЛЕНКА** is "controlled imperfection." The engine simulates light leaks, chemical drifts, and emulsion grain through real-time pixel manipulation, ensuring that no two renders are identical—mimicking the unpredictable nature of expired film stocks and plastic lens cameras (e.g., Lomo LC-A, Holga).
 
----
-
-### 🚀 Live Demo
-Experience the simulator at: 
-
-
-[![Play on Itch.io](https://img.shields.io/badge/PLAY_ON-ITCH.IO-ff2449?style=for-the-badge&logo=itch.io&logoColor=white)](https://alga93.itch.io/soviet-plenka)
-
-[alga93.itch.io/soviet-plenka](https://alga93.itch.io/soviet-plenka)
 
 ---
 
